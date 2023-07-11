@@ -12,10 +12,13 @@ The major deciding factor for using Koin and Ktor is future-proofing the app to 
 
 Here's the screenshots of the app -
 ![Image](Screenshots/Screenshot_20230711-192015_Pokemon.png)
+
 ![Image](Screenshots/Screenshot_20230711-192057_Pokemon.png)
+
 ![Image](Screenshots/Screenshot_20230711-192101_Pokemon.png)
 
 And here's  a video -
-![PokeInfo](https://img.youtube.com/vi/KAjfoSLuKvo/0.jpg)](https://www.youtube.com/watch?v=KAjfoSLuKvo)
+
+![PokeInfo](https://img.youtube.com/vi/KAjfoSLuKvo/0.jpg)(https://www.youtube.com/watch?v=KAjfoSLuKvo)
 
 Enjoy!
